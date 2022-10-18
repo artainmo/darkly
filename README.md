@@ -6,6 +6,8 @@ Flags refer to vulnerability identifiers in the form of a random code and proves
 
 https://cdn.intra.42.fr/pdf/pdf/60806/en.subject.pdf
 
+This project was initially made with Aglorios in this repository (https://github.com/Aglorios17/Darkly_19), I re-uploaded it on my profile.
+
 ## SETUP
 To setup the webiste that has to be hacked follow the following steps:
 1. Download 'Virtual Machine' and 'Darkly_i386.iso' (found here https://projects.intra.42.fr/projects/42cursus-darkly).<br>
