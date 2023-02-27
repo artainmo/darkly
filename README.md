@@ -1,10 +1,10 @@
 # Darkly
 
 In this project we need to hack a given website.<br>
-Vulnerabilities are described in 'VULNERABILITIES.md'.<br>
+Each folder describes one vulnerability.<br>
 Flags refer to vulnerability identifiers in the form of a random code and proves a vulnerability has been found.
 
-https://cdn.intra.42.fr/pdf/pdf/60806/en.subject.pdf
+42 school [subject](https://cdn.intra.42.fr/pdf/pdf/60806/en.subject.pdf).
 
 This project I initially made with [Aglorios](https://github.com/Aglorios17) in this [repository](https://github.com/Aglorios17/Darkly_19), I re-uploaded it on my profile.
 
