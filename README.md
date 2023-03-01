@@ -1,4 +1,4 @@
-# Darkly
+# Darkl
 
 In this project we need to hack a given website.<br>
 Each folder describes one vulnerability.<br>
